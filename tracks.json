@@ -1,5 +1,5 @@
 {
-  "description": "Freely licensed recordings of public domain works used in music therapy trials. Valence, arousal and tempo are averaged from MCUD 1.0 (Du et al., 2026, CC BY 4.0).",
+  "description": "Freely licensed recordings of public domain works from MCUD 1.0, a published dataset of music used in studies. Valence, arousal and tempo are averaged from MCUD 1.0 (Du et al., 2026, CC BY 4.0).",
   "tracks": [
     {
       "key": "bach-air",

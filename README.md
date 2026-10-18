@@ -1,8 +1,8 @@
 # Truly music
 
-Freely licensed recordings played by [Truly](https://github.com/hashtagRR/Truly), a free, open source wellbeing companion.
+Freely licensed recordings played by [Truly](https://github.com/hashtagRR/Truly), a free, open source music recommender.
 
-Every piece is a public domain work that was used in music therapy trials, as recorded in MCUD 1.0 (Du et al., 2026). Truly builds gentle paths through these pieces, starting close to how a person feels and moving a little at a time towards calmer or brighter.
+Every piece is a public domain work from MCUD 1.0 (Du et al., 2026), a published dataset of music used in studies, which also provides each piece's valence, arousal and tempo. Truly builds paths through these pieces that start close to a listener's chosen mood and move a little at a time towards calmer or brighter.
 
 The files are served with GitHub Pages from the same site as the app, so listening involves no streaming service.
 
